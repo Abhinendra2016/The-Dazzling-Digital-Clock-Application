@@ -26,7 +26,7 @@ The Dazzling Digital Clock is a user-friendly application with a modern user int
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Abhinendra2016/dazzling-digital-clock.git
+      https://github.com/Abhinendra2016/The-Dazzling-Digital-Clock-Application.git
     ```
 
 2. Open the `index.html` file in your web browser.
